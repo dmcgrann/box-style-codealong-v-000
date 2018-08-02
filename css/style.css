@@ -220,6 +220,10 @@ header {
   text-align: center;
 }
 
+navbar nav {
+  border-left: 1;
+}
+
 /*////////// LOGO //////////*/
 
 
