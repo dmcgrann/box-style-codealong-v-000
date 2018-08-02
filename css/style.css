@@ -220,11 +220,13 @@ header {
   text-align: center;
 }
 
-navbar nav {
+#navbar nav {
   border-left: 1px solid #ccc;
 }
 
-
+#navbar nav a {
+  
+}
 
 /*////////// LOGO //////////*/
 
